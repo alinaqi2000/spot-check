@@ -54,20 +54,19 @@ The following GIFs showcase the functionality and user experience of SpotCheck:
 
 1. **Home Screen:**
 
-![Home Screen](https://i.postimg.cc/7LrcgvWB/sc-home.gif)
+![Home Screen](assets/mockups/sc-home.gif)
 
 2. **Select Location:**
 
-![Select Location](https://i.postimg.cc/cLL72F8s/sc-select-location.gif)
+![Select Location](assets/mockups/sc-select-location.gif)
 
 3. **Select Actions:**
 
-![Select Actions](https://i.postimg.cc/DfxtRMSZ/sc-select-action.gif)
+![Select Actions](assets/mockups/sc-select-action.gif)
 
 4. **Real-Time Notifications:**
 
-![Real-Time Notifications](https://i.postimg.cc/N08nDJhQ/sc-notifications.gif)
+![Real-Time Notifications](assets/mockups/sc-notifications.gif)
 
 ## License
 SpotCheck is released under the MIT License.
-
