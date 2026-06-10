@@ -15,6 +15,7 @@ SpotCheck is a powerful location tracking app designed to help users automate th
 - **Real-Time Notifications:** Users receive notifications instantly when the specified actions are triggered. This keeps them informed about the changes made or events occurring based on their location.
 
 - **Firebase Firestore:** A cloud-hosted NoSQL database offered by Firebase that enables real-time data synchronization and storage for SpotCheck. It stores user-defined locations, associated actions, and other app data securely.
+
 ## Dependencies
 
 SpotCheck utilizes the following dependencies to provide its functionality:
@@ -32,6 +33,7 @@ SpotCheck utilizes the following dependencies to provide its functionality:
 To get started with SpotCheck, follow these steps:
 
 1. Clone the SpotCheck repository from GitHub:
+
 ```bash
 git clone https://github.com/alinaqi2000/spot_check
 ```
@@ -41,32 +43,35 @@ git clone https://github.com/alinaqi2000/spot_check
 3. Open the SpotCheck project in your preferred IDE or text editor.
 
 4. Install the required dependencies by running the following command in the project directory:
+
 ```bash
 flutter pub get
 ```
 
 5. Build and run the
 
-
 ## Demos
 
 The following GIFs showcase the functionality and user experience of SpotCheck:
 
-1. **Home Screen:**
+<p align="center">
+  <h3>1. Home Screen</h3>
+  
+  <img src="assets/mockups/sc-home.gif" width="300" alt="Home Screen">
 
-![Home Screen](assets/mockups/sc-home.gif)
+  <h3>2. Select Location</h3>
+  
+  <img src="assets/mockups/sc-select-location.gif" width="300" alt="Select Location">
 
-2. **Select Location:**
+  <h3>3. Select Actions</h3>
+  
+  <img src="assets/mockups/sc-select-action.gif" width="300" alt="Select Actions">
 
-![Select Location](assets/mockups/sc-select-location.gif)
-
-3. **Select Actions:**
-
-![Select Actions](assets/mockups/sc-select-action.gif)
-
-4. **Real-Time Notifications:**
-
-![Real-Time Notifications](assets/mockups/sc-notifications.gif)
+  <h3>4. Real-Time Notifications</h3>
+  
+  <img src="assets/mockups/sc-notifications.gif" width="300" alt="Notifications">
+</p>
 
 ## License
+
 SpotCheck is released under the MIT License.
